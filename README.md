@@ -1,6 +1,6 @@
 # Curso Avanzado de Estadística: Aprendizaje automático y aprendizaje geométrico profundo
 
-Temario:
+### Temario:
 
 - **Introducción al aprendizaje de automático (Machine Learning ML)**
   - Historia y evolución del ML
