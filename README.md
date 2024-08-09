@@ -34,7 +34,9 @@
   - Group-equivariant CNNs
   - Redes Neuronales en Grafos (GNNs)
   - Deep Sets, Transformers y Latent Graph Inference
- 
+
+
+ [Calendario](https://docs.google.com/spreadsheets/d/1rwOUsxKBG6-7RJAc6yoxepHlvwjFvPO7tJLzws21oSE/edit?usp=sharing)
 
 ### Bibliografía
 
