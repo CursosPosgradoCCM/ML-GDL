@@ -3,7 +3,7 @@
 ### Temario:
 
 - **Introducción al aprendizaje de automático (Machine Learning ML)**
-  - [Historia y evolución del ML] (https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Historia%20y%20Evolución%20del%20Machine%20Learning.pdf)
+  - [Historia y evolución del ML](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Historia%20y%20Evolución%20del%20Machine%20Learning.pdf)
   - Tipos de aprendizaje: supervisado, no supervisado y por refuerzo
   - Regresión, clasificación, clustering
 
