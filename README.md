@@ -5,6 +5,8 @@
 - **Introducción al aprendizaje de automático (Machine Learning ML)**
   - [Historia y evolución del ML; Tipos de aprendizaje: supervisado, no supervisado y por refuerzo](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Historia%20y%20Evolución%20del%20Machine%20Learning.pdf)
   - Regresión
+      -[Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/REGRESIÓN_TEORÍA.ipynb)
+      -[Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/REGRESIÓN_PRÁCTICA.ipynb)
   - Clasificación, clustering
 
 - **Modelos Clásicos de Machine Learning**
