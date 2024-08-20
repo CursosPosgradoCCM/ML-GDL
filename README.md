@@ -9,7 +9,7 @@
       * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/REGRESIÓN_PRÁCTICA.ipynb)
   - Clasificación, clustering
       * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/13714a9f236971eef677c61ced40b52ab92d2045/notas/Clasificaci%C3%B3n%20vs%20Cluster.pptx)
-      * [Práctica]
+      * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/878879d545a28a445ae2e884d5ff8b03ff229044/code/CyC.ipynb)
 
 - **Modelos Clásicos de Machine Learning**
   - Regresión y Clasificación
