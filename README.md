@@ -45,6 +45,10 @@
 [Link a servidor](https://geomtop.matmor.unam.mx:8443/hub/login)
 
 
+## Sesiones de ejercicios
+
+- Sesión 1: [notebook]()
+
 ### Bibliografía
 
 - Albon, C. (2018). *Machine learning with python cookbook: Practical solutions from preprocessing to deep learning*. O'Reilly Media, Inc.
