@@ -49,6 +49,11 @@
 
 - Sesión 1: [notebook](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/Ejercicios_260824.ipynb)
 
+### Sklearn
+
+[Documentation of sklearn](https://scikit-learn.org/stable/api/sklearn.cluster.html)
+
+
 ### Bibliografía
 
 - Albon, C. (2018). *Machine learning with python cookbook: Practical solutions from preprocessing to deep learning*. O'Reilly Media, Inc.
