@@ -47,7 +47,7 @@
 
 ## Sesiones de ejercicios
 
-- Sesión 1: [notebook]()
+- Sesión 1: [notebook](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/Ejercicios_260824.ipynb)
 
 ### Bibliografía
 
