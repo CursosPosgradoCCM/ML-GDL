@@ -14,7 +14,11 @@
 - **Modelos Clásicos de Machine Learning**
   - Regresión y Clasificación
     - Naive Bayes
+      * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Naive%20Bayes.pdf)
+      * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/Naive_Bayes.ipynb)
     - Regresión lineal y logística
+      * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/a70776680959da57ccaca98e7ab86400e38bc4f9/notas/Regresi%C3%B3n_lineal_y_log%C3%ADstica_en_ML.pdf)
+      * [Figuras teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/a70776680959da57ccaca98e7ab86400e38bc4f9/notas/Regresi%C3%B3n_lineal_y_log%C3%ADstica_en_ML.pdf)
     - Máquina de Soporte Vectorial
     - Árboles de decisión y Random Forests
   - Algoritmos de Clustering y Reducción de Dimensionalidad
