@@ -19,6 +19,7 @@
     - Regresión lineal y logística
       * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/a70776680959da57ccaca98e7ab86400e38bc4f9/notas/Regresi%C3%B3n_lineal_y_log%C3%ADstica_en_ML.pdf)
       * [Figuras teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/7740e2c0f6a415d2ef66363733b7c0909cd7c17f/notas/Regresi%C3%B3n_lineal_y_log%C3%ADstica_en_ML_figuras.pdf)
+      * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/a90affee38563bc2bade9f1a47e2352c05a84a14/code/Reg%20lineal%20y%20log%C3%ADstica.ipynb)
     - Máquina de Soporte Vectorial
     - Árboles de decisión y Random Forests
   - Algoritmos de Clustering y Reducción de Dimensionalidad
