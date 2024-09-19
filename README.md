@@ -23,7 +23,7 @@
     - Máquina de Soporte Vectorial
     - Árboles de decisión y Random Forests
   - Algoritmos de Clustering y Reducción de Dimensionalidad
-    - K-means, DBSCAN
+    - [K-means](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/K-Means.ipynb), [DBSCAN](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/DBSCAN.ipynb)
     - K-nearest Neighbor (KNN)
     - Análisis de Componentes Principales
     - t-SNE
