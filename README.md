@@ -24,7 +24,9 @@
     - Árboles de decisión y Random Forests
   - Algoritmos de Clustering y Reducción de Dimensionalidad
     - [K-means](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/K-Means.ipynb), [DBSCAN](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/DBSCAN.ipynb)
-    - [K-nearest Neighbor (KNN)](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/KNN.ipynb)
+    - K-nearest Neighbor (KNN)
+      * [Teoría] (https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/KNN.ipynb)
+      * [Práctica] (https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/KNN-práctica.ipynb)
     - Análisis de Componentes Principales
     - t-SNE
 
