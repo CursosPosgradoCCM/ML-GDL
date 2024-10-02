@@ -29,7 +29,7 @@
       * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/KNN-práctica.ipynb)
     - Análisis de Componentes Principales
     - t-SNE
-      *[Página interactiva](https://distill.pub/2016/misread-tsne/)
+      * [Página interactiva](https://distill.pub/2016/misread-tsne/)
 
 - **Redes Neuronales**
   - Perceptrón y Perceptrón Multicapa
