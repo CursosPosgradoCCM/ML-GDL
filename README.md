@@ -28,6 +28,8 @@
       * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/KNN.ipynb)
       * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/KNN-práctica.ipynb)
     - Análisis de Componentes Principales
+      *  [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/5aa07725581d4ce9783231e4c8cfb93d2dd59fef/notas/PCA.pdf)
+      *  [Practica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/5aa07725581d4ce9783231e4c8cfb93d2dd59fef/code/PCA.ipynb)
     - t-SNE
       * [Página interactiva](https://distill.pub/2016/misread-tsne/)
 
