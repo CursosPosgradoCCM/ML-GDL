@@ -42,6 +42,8 @@
   - Redes Neuronales Convolucionales (CNNs)
   - Redes Neuronales Recurrentes (RNNs)
   - [Autoencoders y Generative Adversarial Networks (GANs)](https://docs.google.com/presentation/d/1XI-mY8ehKmdk2LG7LITCxRKbTHwybd2Wzet-ep_RwYo/edit?usp=sharing)
+    * [AutoEncoders: Linear & Neural](https://colab.research.google.com/drive/1ZYozA9rKpqdjFqcqTp70tr6v__5cwyb5)
+    * [VAEs](https://colab.research.google.com/drive/194ITP_G95IdUCtferADTVlhzZ6aib8h0)
 
 - **Aprendizaje geométrico profundo (Geometric Deep Learning GDL)**
   - Fundamentos del Geometric Deep Learning
