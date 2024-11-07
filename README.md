@@ -41,8 +41,8 @@
 - **Aprendizaje profundo (Deep Learning)**
   - Redes Neuronales Convolucionales (CNNs)
   - Redes Neuronales Recurrentes (RNNs)
-    *[Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/5aa07725581d4ce9783231e4c8cfb93d2dd59fef/notas/RNN.ipynb)
-    *[Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/5aa07725581d4ce9783231e4c8cfb93d2dd59fef/code/RNNS_PRACTICES(1).ipynb)
+    * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/5aa07725581d4ce9783231e4c8cfb93d2dd59fef/notas/RNN.ipynb)
+    * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/5aa07725581d4ce9783231e4c8cfb93d2dd59fef/code/RNNS_PRACTICES(1).ipynb)
   - [Autoencoders y Generative Adversarial Networks (GANs)](https://docs.google.com/presentation/d/1XI-mY8ehKmdk2LG7LITCxRKbTHwybd2Wzet-ep_RwYo/edit?usp=sharing)
     * [AutoEncoders: Linear & Neural](https://colab.research.google.com/drive/1ZYozA9rKpqdjFqcqTp70tr6v__5cwyb5)
     * [VAEs](https://colab.research.google.com/drive/194ITP_G95IdUCtferADTVlhzZ6aib8h0)
