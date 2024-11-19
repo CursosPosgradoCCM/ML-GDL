@@ -48,7 +48,7 @@
     * [VAEs](https://colab.research.google.com/drive/194ITP_G95IdUCtferADTVlhzZ6aib8h0)
 
 - **Aprendizaje geométrico profundo (Geometric Deep Learning GDL)**
-  - Fundamentos del Geometric Deep Learning
+  - [Fundamentos del Geometric Deep Learning](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Intro_to_GDL.pdf)
   - Group-equivariant CNNs
   - Redes Neuronales en Grafos (GNNs)
   - Deep Sets, Transformers y Latent Graph Inference
