@@ -38,7 +38,8 @@
 - **Redes Neuronales**
   - Perceptrón y Perceptrón Multicapa
   - Funciones de activación
-    * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Funciones%20de%20activación.pptx) 
+    * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Funciones%20de%20activación.pptx)
+    * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/Perceptronmult1.ipynb) 
   - Propagación hacia atrás y optimización
 
 - **Aprendizaje profundo (Deep Learning)**
