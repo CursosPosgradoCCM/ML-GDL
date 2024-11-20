@@ -32,10 +32,13 @@
       *  [Practica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/5aa07725581d4ce9783231e4c8cfb93d2dd59fef/code/PCA.ipynb)
     - t-SNE
       * [Página interactiva](https://distill.pub/2016/misread-tsne/)
+      * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/tSNE.pptx)
+      * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/TSNE.ipynb)
 
 - **Redes Neuronales**
   - Perceptrón y Perceptrón Multicapa
   - Funciones de activación
+    * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Funciones%20de%20activación.pptx) 
   - Propagación hacia atrás y optimización
 
 - **Aprendizaje profundo (Deep Learning)**
