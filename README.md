@@ -43,7 +43,7 @@
   - Propagación hacia atrás y optimización
 
 - **Aprendizaje profundo (Deep Learning)**
-  - Redes Neuronales Convolucionales (CNNs)
+  - [Redes Neuronales Convolucionales (CNNs)](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/CNN.ipynb)
   - Redes Neuronales Recurrentes (RNNs)
     * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/RNNS_NOTES.ipynb)
     * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/RNNS_PRACTICES.ipynb)
