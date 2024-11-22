@@ -54,7 +54,9 @@
 - **Aprendizaje geométrico profundo (Geometric Deep Learning GDL)**
   - [Fundamentos del Geometric Deep Learning](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/Intro_to_GDL.pdf)
   - Group-equivariant CNNs
-  - Redes Neuronales en Grafos (GNNs)
+  - [Redes Neuronales en Grafos (GNNs)]
+     * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/GNN1.pptx)
+     * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/GNN.ipynb)
   - Deep Sets, Transformers y Latent Graph Inference
 
 
