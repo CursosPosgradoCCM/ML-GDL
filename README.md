@@ -58,6 +58,9 @@
      * [Teoría](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/GNN1.pptx)
      * [Práctica](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/GNN.ipynb)
   - Deep Sets, Transformers y Latent Graph Inference
+     * [Teoría DeepSets](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/notas/DeepSets.pdf)
+     * [Práctica DeepSets](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/DeepSets.ipynb)
+     * [Práctica Transformers](https://github.com/CursosPosgradoCCM/ML-GDL/blob/main/code/transformers.ipynb)
 
 
  [Calendario](https://docs.google.com/spreadsheets/d/1rwOUsxKBG6-7RJAc6yoxepHlvwjFvPO7tJLzws21oSE/edit?usp=sharing)
